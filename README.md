@@ -8,7 +8,7 @@
 
 
 ### How to Launch with out docker ? 
-### **Step 1** : Change current directory to client folder : cd client 
+### **Step 1** : Change current directory to client folder : ``` cd client ```
 ### **Step 2** : Split the terminal, to access the server current directory folder : cd server 
 ### **Step 3**: In First half of the terminal the current directory is client folder , install the packages: npm install 
 ### **Step 4**: Second half of the terminal the current directory is server folder : npm install 
